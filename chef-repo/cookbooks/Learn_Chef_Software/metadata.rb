@@ -1,0 +1,7 @@
+name 'Learn_Chef_Software'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures Learn_Chef_Software'
+long_description 'Installs/Configures Learn_Chef_Software'
+version '0.1.0'
